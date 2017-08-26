@@ -1,0 +1,6 @@
+{
+  "name": "promises-get-index",
+  "dependencies": {
+    "@architect/functions": "^1.4.1"
+  }
+}
