@@ -1,6 +1,7 @@
 {
   "name": "promises-get-index",
   "dependencies": {
-    "@architect/functions": "^1.4.1"
+    "@architect/data": "^2.0.5",
+    "@architect/functions": "^1.9.2"
   }
 }
