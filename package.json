@@ -4,6 +4,6 @@
   "author": "Brian LeRoux <b@brian.io>",
   "license": "Apache-2.0",
   "dependencies": {
-    "@architect/workflows": "^3.4.2"
+    "@architect/architect": "^4.5.5"
   }
 }

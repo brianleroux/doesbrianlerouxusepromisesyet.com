@@ -8,5 +8,5 @@ doesbrianlerouxusepromisesyet.com
 profile personal
 region us-west-1
 
-@html
+@http
 get /
