@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "author": "Brian LeRoux <b@brian.io>",
   "license": "Apache-2.0",
+  "scripts": {
+    "start": "arc sandbox"
+  },
   "dependencies": {
-    "@architect/architect": "^4.5.5"
+    "@architect/architect": "^8.5.4"
   }
 }
